@@ -1,0 +1,25 @@
+body {
+    font-family: "Gothic A1", sans-serif;
+  }
+.speener {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.gel {
+    font-size: 50px;
+    text-align: center;
+}
+
+.speener:active {
+    transition: all 24s;
+    transform: rotate(5500deg);
+}
+
+.ww {
+    text-shadow: 5px 5px 5px rgb(95, 41, 16);
+    text-align: center;
+    font-size: 50px
+}
